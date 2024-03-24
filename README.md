@@ -10,7 +10,7 @@ All the badges I've made for minecraft modding.
 
 # how to use
 
-just paste these on your mod description
+just paste these onto your mod description
 
 ```markdown
 [<img src="https://github.com/iuriineves/modding-badges/blob/main/Available%20on%20Modrinth.png?raw=true" width="200"/>](https://modrinth.com/)
